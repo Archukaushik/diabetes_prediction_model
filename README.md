@@ -1,18 +1,17 @@
-Project Overview
+**Project Overview**
 
 The project applies data preprocessing, feature selection, and model training using classification algorithms like Logistic Regression or Random Forest. It evaluates model performance through accuracy and other metrics to ensure reliable predictions.
+**Features**
 
-Features
+**Data cleaning and preprocessing
+**
+**Exploratory data analysis and visualization**
 
-Data cleaning and preprocessing
+**Model training and evaluation**
 
-Exploratory data analysis and visualization
-
-Model training and evaluation
-
-Prediction on new input data
-
-Technologies Used
+**Prediction on new input data**
+**
+Technologies Used**
 
 Python
 
@@ -22,21 +21,19 @@ Scikit-learn
 
 Matplotlib, Seaborn
 
-Dataset
+**Dataset**
 
-The dataset used is the Pima Indians Diabetes Dataset, available on Kaggle
-.
-
+The dataset used is available on Kaggle
 
 
-Model Performance
+**Model Performance**
 
 The model achieves approximately 75% accuracy, depending on the algorithm and parameter tuning.
 
-Contributing
+**Contributing**
 
 Contributions and improvements are welcome. Please open an issue or submit a pull request for any suggestions.
-
-License
+**
+License**
 
 This project is open source and available under the MIT License.
